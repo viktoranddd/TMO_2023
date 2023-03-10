@@ -1,0 +1,41 @@
+Year,Network,Telecasts,Rating,Share,avg_homes,avg_viewers,cost_per_spot,winners,losers
+2007,FOX,4.0,10.6,18.0,11994000.0,17123000.0,,Boston Red Sox , Colorado Rockies
+2006,FOX,5.0,10.1,17.0,11282000.0,15812000.0,399025.0,St. Louis Cardinals ,Detroit Tigers
+2005,FOX,4.0,11.1,19.0,12272000.0,17162000.0,395000.0,Chicago White Sox,Houston Astros
+2004,FOX,4.0,15.8,26.0,17270000.0,25390000.0,375000.0,Boston Red Sox,St. Louis Cardinals
+2003,FOX,6.0,12.8,22.0,13834000.0,20142000.0,298983.0,Florida Marlins , NY Yankees
+2002,FOX,7.0,11.9,20.0,12645000.0,19261000.0,278571.0,Anahiem Angels,San Francisco Giants
+2001,FOX,7.0,15.7,26.0,16519000.0,24528000.0,307143.0,Arizona Diamnondbacks , NY Yankees
+2000,FOX,5.0,12.4,21.0,12657000.0,18081000.0,350000.0,NY Yankees , NY Mets
+1999,NBC,4.0,16.0,26.0,16105000.0,23731000.0,300500.0,NY Yankees , Atlanta Braves
+1998,FOX,4.0,14.1,24.0,14050000.0,20340000.0,300000.0,NY Yankees , San Diego Padres
+1997,NBC,7.0,16.7,29.0,16410000.0,24790000.0,257500.0,Florida Marlins , Cleveland Indians
+1996,FOX,6.0,17.4,29.0,16890000.0,25220000.0,300000.0,NY Yankees , Atlanta Braves
+1995,ABC,6.0,19.5,33.0,18710000.0,28970000.0,248300.0,Atlanta Braves , Cleveland Indians
+1994,Baseball Strike,,,,,,,,
+1993,CBS,6.0,17.3,30.0,16330000.0,24700000.0,229600.0,Toronto Blue Jays , Philadelphia Phillies
+1992,CBS,6.0,20.2,34.0,18820000.0,30010000.0,199700.0,Toronto Blue Jays , Atlanta Braves
+1991,CBS,7.0,24.0,39.0,22060000.0,35680000.0,185100.0,Minnesota Twins , Atlanta Braves
+1990,CBS,4.0,20.8,36.0,19320000.0,30240000.0,238700.0,Cincinnati Reds , Oakland Athletics
+1989,ABC,4.0,16.4,29.0,15090000.0,24550000.0,310000.0,Oakland Athletics , San Francisco Giants
+1988,NBC,5.0,23.9,39.0,21610000.0,34490000.0,280000.0,Los Angeles Dodgers , Oakland Athletics
+1987,ABC,7.0,24.0,41.0,21230000.0,35340000.0,267500.0,Minnesota Twins , St. Louis Cardinals
+1986,NBC,7.0,28.6,46.0,23640000.0,36370000.0,241100.0,New York Mets , Boston Red Sox
+1985,ABC,7.0,25.3,39.0,21740000.0,34510000.0,210000.0,Kansas City Royals , St. Louis Cardinals
+1984,NBC,5.0,22.9,40.0,19270000.0,28010000.0,222500.0,Detroit Tigers , San Diego Padres
+1983,ABC,5.0,23.3,41.0,19570000.0,29540000.0,200300.0,Baltimore Orioles , Philadelphia Phillies
+1982,NBC,7.0,27.9,49.0,23370000.0,38070000.0,169700.0,St. Louis Cardinals , Milwaukee Brewers
+1981,ABC,6.0,30.0,49.0,24480000.0,41370000.0,151000.0,Los Angeles Dodgers , NY Yankees
+1980,NBC,6.0,32.8,56.0,25380000.0,42300000.0,123200.0,Philadelphia Phillies , Kansas City Royals
+1979,ABC,7.0,28.5,50.0,21730000.0,37960000.0,105000.0,Pittsburgh Pirates , Baltimore Orioles
+1978,NBC,6.0,32.8,56.0,24450000.0,44278950.0,85000.0,NY Yankees , Los Angeles Dodgers
+1977,ABC,6.0,29.8,53.0,21720000.0,37150000.0,,NY Yankees , Los Angeles Dodgers
+1976,NBC,4.0,27.5,48.0,19580000.0,34720000.0,,Cincinnati Reds , NY Yankees
+1975,NBC,7.0,28.7,52.0,19980000.0,35960000.0,,Cincinnati Reds , Boston Red Sox
+1974,NBC,5.0,25.6,46.0,17540000.0,29080000.0,,Oakland Athletics , Los Angeles Dodgers
+1973,NBC,7.0,30.7,57.0,20320000.0,34750000.0,,Oakland Athletics , NY Mets
+1972,NBC,7.0,27.5,58.0,,,,Oakland Athletics , Cincinnati Reds
+1971,NBC,7.0,24.2,59.0,,,,Pittsburgh Pirates , Baltimore Orioles
+1970,NBC,5.0,19.4,53.0,,,,Baltimore Orioles , Cincinnati Reds
+1969,NBC,5.0,22.4,58.0,,,,NY Mets , Baltimore Orioles
+1968,NBC,7.0,22.8,57.0,,,,Detroit Tigers , St. Louis Cardinals
